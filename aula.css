@@ -1,0 +1,81 @@
+.myoverviewimg.m-b-1.coursepattern {
+    height: 5px;
+}
+.pull-left {
+    display: none;
+}
+.row-fluid.hidden {
+    display: inline;
+    visibility: hidden;
+}
+.text-xs-center.text-center {
+    display: none;
+}
+div#heading {
+    display: none;
+}
+a#yui_3_17_2_1_1591140405492_264 {
+    display: none;
+}
+.container-fluid {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 400;
+}
+th.header.text-xs-center {
+    color: ghostwhite;
+}
+.navbar.clearfix {
+    display: none;
+}
+html {
+    visibility: hidden;
+}
+.sub-bar {
+    position:fixed;
+    bottom:0;
+    left:10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.block {
+    border: 1px solid #336090 !important;
+}
+
+ul.topics {
+    border: 1px solid #336090;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size:20px !important;
+    font-family: 'Alegreya Sans', sans-serif !important;
+}
+
+.nav-collapse.collapse {
+    display: none;
+}
+.nav-collapse.collapse::hover {
+    display: none;
+}
+
+section#alianzas {
+    display: none;
+}
+footer#page-footer {
+    display: none;
+}
+
+li.type_course.depth_6.contains_branch.current_branch p.tree_item.branch.active_tree_node.canexpand a {
+    color:red;
+}
+
+.main-nav ul.social a{
+    background-size: contain;
+}
+
+.main-nav ul.social a, .main-nav ul.social span.search {
+    width:48px;
+    height:48px;
+}
